@@ -1,0 +1,13 @@
+# Build artifacts
+core_banking_system
+*.o
+*.out
+*.exe
+
+# Runtime data (created when the program runs)
+accounts.dat
+transactions.log
+
+# OS/editor cruft
+.DS_Store
+*.swp
